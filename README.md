@@ -1,5 +1,8 @@
 # Haskell-Resources
 
+Haskell Servant
+http://taylor.fausak.me/static/pages/2015-08-26-type-safe-web-services-in-haskell-with-servant.html#1
+
 A quick intro about Monads
 https://medium.com/@franzejr/a-quick-intro-about-monads-291e50dda062#.lis76jf2t
 
